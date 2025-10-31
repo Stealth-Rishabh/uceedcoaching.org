@@ -849,152 +849,156 @@
         });
     </script>
     <section class="body_result">
-        <div class="nid-container_result">
-            <div class="section-header_exam fade-in_exam">
-                <h2 class="section-title_exam live_result">UCEED Results by BRDS</h2>
-            </div>
-            <div class="nid-section_result" id="nidSlider">
-                <!-- For desktop view -->
-                <!-- Stats Card -->
-                <div class="card_result stats-card_result">
-                    <h2 class="stats-title_result">UCEED</h2>
-                    <h3 class="stats-number_result">1405</h3>
-                    <h4 class="stats-text_result">Students Qualified UCEED & CEED 2024</h4>
-                    <div class="total-stats_result">3389 Total Qualified UCEED/CEED</div>
-                </div>
-                <!-- Student Card 1 -->
-                <div class="card_result student-card_result">
-                    <div class="card-header_result"></div>
-                    <div class="profile-wrapper_result">
-                        <div class="profile-ring_result"></div>
-                        <!-- <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/arun-surya-m.png"
-                            alt="Arun Surya" class="profile-pic_result"> -->
-                        <img src="images/sspandan.png" alt="Arun Surya" class="profile-pic_result">
-                    </div>
-                    <div class="student-info_result">
-                        <h3 class="student-name_result">S Spandan</h3>
-                        <div class="student-city_result">Cuttack</div>
-                        <div class="student-program_result">-</div>
-                        <div class="rank-badge_result">
-                            <span class="rank-label_result">All India Rank</span>
-                            <span class="rank-number_result">03</span>
-                        </div>
-                        <div class="nid-year_result">UCEED 2024</div>
-                    </div>
-                </div>
-                <!-- Student Card 2 -->
-                <div class="card_result student-card_result">
-                    <div class="card-header_result"></div>
-                    <div class="profile-wrapper_result">
-                        <div class="profile-ring_result"></div>
-                        <!-- <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/arundhati-rana.png"
-                            alt="Arundhati Rana" class="profile-pic_result"> -->
-                        <img src="images/aditya-swain.png" alt="Aditya Swain" class="profile-pic_result">
-                    </div>
-                    <div class="student-info_result">
-                        <h3 class="student-name_result">Aditya Swain</h3>
-                        <div class="student-city_result">Brahmapur Sadar</div>
-                        <div class="student-program_result">-</div>
-                        <div class="rank-badge_result">
-                            <span class="rank-label_result">All India Rank</span>
-                            <span class="rank-number_result">03</span>
-                        </div>
-                        <div class="nid-year_result">UCEED 2024</div>
-                    </div>
-                </div>
-                <!-- Student Card 3 -->
-                <div class="card_result student-card_result">
-                    <div class="card-header_result"></div>
-                    <div class="profile-wrapper_result">
-                        <div class="profile-ring_result"></div>
-                        <img src="images/yatri-patel.png" alt="Yatri Patel" class="profile-pic_result">
-                    </div>
-                    <div class="student-info_result">
-                        <h3 class="student-name_result">Yatri Patel</h3>
-                        <div class="student-city_result">Delhi</div>
-                        <div class="student-program_result">-</div>
-                        <div class="rank-badge_result">
-                            <span class="rank-label_result">All India Rank</span>
-                            <span class="rank-number_result">09</span>
-                        </div>
-                        <div class="nid-year_result">UCEED 2024</div>
-                    </div>
+    <div class="nid-container_result">
+        <div class="section-header_exam fade-in_exam">
+            <h2 class="section-title_exam live_result">CEED Results by BRDS</h2>
+        </div>
+        <div class="nid-section_result" id="nidSlider">
+            <!-- For desktop view -->
+            <!-- Stats Card -->
+            <div class="card_result stats-card_result">
+                <h2 class="stats-title_result">IIT</h2>
+                <h3 class="stats-number_result">1520</h3>
+                <h4 class="stats-text_result">Students Qualified UCEED & CEED 2025</h4>
+                <div class="total-stats_result">4909 Total Qualified UCEED / CEED Since 2005
                 </div>
             </div>
-            <!-- Mobile Slider (only shown on mobile) -->
-            <div class="mobile-slider-track_result" id="sliderTrack" style="display: none;">
-                <!-- Stats Card -->
-                <div class="card_result stats-card_result">
-                    <h2 class="stats-title_result">UCEED</h2>
-                    <h3 class="stats-number_result">1405</h3>
-                    <h4 class="stats-text_result">Students Qualified UCEED & CEED 2024</h4>
-                    <div class="total-stats_result">3389 Total Qualified UCEED/CEED</div>
+            <!-- Student Card 1 -->
+            <div class="card_result student-card_result">
+                <div class="card-header_result"></div>
+                <div class="profile-wrapper_result">
+                    <div class="profile-ring_result"></div>
+                    <!-- <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/arun-surya-m.png" alt="Arun Surya" class="profile-pic_result"> -->
+                    <img src="https://brdsresult.com/wp-content/uploads/resultdata/2025/iit/images/shreyansh-agarwal.jpg" alt="Shreyansh Agarwal" class="profile-pic_result">
                 </div>
-                <!-- Student Card 1 -->
-                <div class="card_result student-card_result">
-                    <div class="card-header_result"></div>
-                    <div class="profile-wrapper_result">
-                        <img src="images/sspandan.png" alt="S Spandan" class="profile-pic_result">
+                <div class="student-info_result">
+                    <h3 class="student-name_result">Shreyansh Agarwal</h3>
+                    <div class="student-city_result">Delhi</div>
+                    <div class="student-program_result">B.Des-IIT Bombay</div>
+                    <div class="rank-badge_result">
+                        <span class="rank-label_result">All India Rank</span>
+                        <span class="rank-number_result">01</span>
                     </div>
-                    <div class="student-info_result">
-                        <h3 class="student-name_result">S Spandan</h3>
-                        <div class="student-city_result">Cuttack</div>
-                        <div class="student-program_result">-</div>
-                        <div class="rank-badge_result">
-                            <span class="rank-label_result">All India Rank</span>
-                            <span class="rank-number_result">03</span>
-                        </div>
-                        <div class="nid-year_result">UCEED 2024</div>
-                    </div>
-                </div>
-                <!-- Student Card 2 -->
-                <div class="card_result student-card_result">
-                    <div class="card-header_result"></div>
-                    <div class="profile-wrapper_result">
-                        <img src="images/aditya-swain.png" alt="S Spandan" class="profile-pic_result">
-                    </div>
-                    <div class="student-info_result">
-                        <h3 class="student-name_result">Aditya Swain</h3>
-                        <div class="student-city_result">Brahmapur Sadar</div>
-                        <div class="student-program_result">-</div>
-                        <div class="rank-badge_result">
-                            <span class="rank-label_result">All India Rank</span>
-                            <span class="rank-number_result">03</span>
-                        </div>
-                        <div class="nid-year_result">UCEED 2024</div>
-                    </div>
-                </div>
-                <!-- Student Card 3 -->
-                <div class="card_result student-card_result">
-                    <div class="card-header_result"></div>
-                    <div class="profile-wrapper_result">
-                        <img src="images/yatri-patel.png" alt="Nikhil Manoj" class="profile-pic_result">
-                    </div>
-                    <div class="student-info_result">
-                        <h3 class="student-name_result">Yatri Patel</h3>
-                        <div class="student-city_result">Delhi</div>
-                        <div class="student-program_result">-</div>
-                        <div class="rank-badge_result">
-                            <span class="rank-label_result">All India Rank</span>
-                            <span class="rank-number_result">09</span>
-                        </div>
-                        <div class="nid-year_result">UCEED 2024</div>
-                    </div>
+                    <div class="nid-year_result">UCEED 2025</div>
                 </div>
             </div>
-            <!-- Mobile Slider Controls -->
-            <div class="slider-controls_result" id="sliderDots">
-                <div class="slider-dot_result active" data-index="0"></div>
-                <div class="slider-dot_result" data-index="1"></div>
-                <div class="slider-dot_result" data-index="2"></div>
-                <div class="slider-dot_result" data-index="3"></div>
+            <!-- Student Card 2 -->
+            <div class="card_result student-card_result">
+                <div class="card-header_result"></div>
+                <div class="profile-wrapper_result">
+                    <div class="profile-ring_result"></div>
+                    <!-- <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/arundhati-rana.png" alt="Arundhati Rana" class="profile-pic_result"> -->
+                    <img src="https://brdsresult.com/wp-content/uploads/resultdata/2025/iit/images/kumar-navneet.jpg" alt="Kumar Navneet" class="profile-pic_result">
+                </div>
+                <div class="student-info_result">
+                    <h3 class="student-name_result">Kumar Navneet</h3>
+                    <div class="student-city_result">Jamshedpur</div>
+                    <div class="student-program_result">B.Des-IIT Bombay</div>
+                    <div class="rank-badge_result">
+                        <span class="rank-label_result">All India Rank</span>
+                        <span class="rank-number_result">01</span>
+                    </div>
+                    <div class="nid-year_result">UCEED 2025</div>
+                </div>
             </div>
-            <div class="slider-arrows_result">
-                <div class="arrow_result arrow-left_result" id="prevSlide"></div>
-                <div class="arrow_result arrow-right_result" id="nextSlide"></div>
+            <!-- Student Card 3 -->
+            <div class="card_result student-card_result">
+                <div class="card-header_result"></div>
+                <div class="profile-wrapper_result">
+                    <div class="profile-ring_result"></div>
+                    <img src="https://brdsresult.com/wp-content/uploads/resultdata/2025/iit/images/maharudra-sunil-mukhare.jpg"
+                        alt="Maharudra Mukhare" class="profile-pic_result">
+                </div>
+                <div class="student-info_result">
+                    <h3 class="student-name_result">Maharudra Mukhare</h3>
+                    <div class="student-city_result">Maharashtra</div>
+                    <div class="student-program_result">B.Des-IIT Bombay</div>
+                    <div class="rank-badge_result">
+                        <span class="rank-label_result">All India Rank</span>
+                        <span class="rank-number_result">04</span>
+                    </div>
+                    <div class="nid-year_result">UCEED 2025</div>
+                </div>
             </div>
         </div>
-    </section>
+        <!-- Mobile Slider (only shown on mobile) -->
+        <div class="mobile-slider-track_result" id="sliderTrack" style="display: none;">
+            <!-- Stats Card -->
+            <div class="card_result stats-card_result">
+                <h2 class="stats-title_result">IIT</h2>
+                <h3 class="stats-number_result">1520</h3>
+                <h4 class="stats-text_result">Students Qualified UCEED & CEED 2025</h4>
+                <div class="total-stats_result">4909 Total Qualified UCEED / CEED Since 2005
+                </div>
+            </div>
+            <!-- Student Card 1 -->
+            <div class="card_result student-card_result">
+                <div class="card-header_result"></div>
+                <div class="profile-wrapper_result">
+                    <img src="https://brdsresult.com/wp-content/uploads/resultdata/2025/iit/images/shreyansh-agarwal.jpg"
+                        alt="Shreyansh Agarwal" class="profile-pic_result">
+                </div>
+                <div class="student-info_result">
+                    <h3 class="student-name_result">Shreyansh Agarwal</h3>
+                    <div class="student-city_result">Delhi</div>
+                    <div class="student-program_result">B.Des-IIT Bombay</div>
+                    <div class="rank-badge_result">
+                        <span class="rank-label_result">All India Rank</span>
+                        <span class="rank-number_result">01</span>
+                    </div>
+                    <div class="nid-year_result">UCEED 2025</div>
+                </div>
+            </div>
+            <!-- Student Card 2 -->
+            <div class="card_result student-card_result">
+                <div class="card-header_result"></div>
+                <div class="profile-wrapper_result">
+                    <img src="https://brdsresult.com/wp-content/uploads/resultdata/2025/iit/images/kumar-navneet.jpg"
+                        alt="Kumar Navneet" class="profile-pic_result">
+                </div>
+                <div class="student-info_result">
+                    <h3 class="student-name_result">Kumar Navneet</h3>
+                    <div class="student-city_result">Jamshedpur</div>
+                    <div class="student-program_result">B.Des-IIT Bombay</div>
+                    <div class="rank-badge_result">
+                        <span class="rank-label_result">All India Rank</span>
+                        <span class="rank-number_result">01</span>
+                    </div>
+                    <div class="nid-year_result">UCEED 2025</div>
+                </div>
+            </div>
+            <!-- Student Card 3 -->
+            <div class="card_result student-card_result">
+                <div class="card-header_result"></div>
+                <div class="profile-wrapper_result">
+                    <img src="https://brdsresult.com/wp-content/uploads/resultdata/2025/iit/images/maharudra-sunil-mukhare.jpg"
+                        alt="Nikhil Manoj" class="profile-pic_result">
+                </div>
+                <div class="student-info_result">
+                    <h3 class="student-name_result">Maharudra Mukhare</h3>
+                    <div class="student-city_result">Maharashtra</div>
+                    <div class="student-program_result">B.Des-IIT Bombay</div>
+                    <div class="rank-badge_result">
+                        <span class="rank-label_result">All India Rank</span>
+                        <span class="rank-number_result">04</span>
+                    </div>
+                    <div class="nid-year_result">UCEED 2025</div>
+                </div>
+            </div>
+        </div>
+        <!-- Mobile Slider Controls -->
+        <div class="slider-controls_result" id="sliderDots">
+            <div class="slider-dot_result active" data-index="0"></div>
+            <div class="slider-dot_result" data-index="1"></div>
+            <div class="slider-dot_result" data-index="2"></div>
+            <div class="slider-dot_result" data-index="3"></div>
+        </div>
+        <div class="slider-arrows_result">
+            <div class="arrow_result arrow-left_result" id="prevSlide"></div>
+            <div class="arrow_result arrow-right_result" id="nextSlide"></div>
+        </div>
+    </div>
+</section>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
             // Get elements
